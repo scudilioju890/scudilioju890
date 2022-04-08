@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 2. Master Statistic in USP
 
 
-nome | idade
--------------
-juliana| 34
-Amanda |32
+nome    | idade
+------- | -------
+juliana | 34
+Amanda  |32
